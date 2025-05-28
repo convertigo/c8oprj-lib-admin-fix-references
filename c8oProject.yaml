@@ -1,0 +1,9 @@
+↑convertigo: 8.0.0.m006
+↓AdminFixReferences [core.Project]: 
+  comment: Mashup Sequencer project
+  contextTimeout: 59
+  corsOrigin: =Origin
+  httpSessionTimeout: 60
+  version: 1.0.0
+  ↓void [connectors.SqlConnector]: 🗏 connectors/void.yaml
+  ↓AutoResolve [sequences.GenericSequence]: 🗏 sequences/AutoResolve.yaml

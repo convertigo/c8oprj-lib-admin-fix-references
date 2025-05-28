@@ -1,0 +1,5 @@
+accessibility: Private
+autoStart: true
+↓Process_execute [steps.ProcessExecStep-1748422607525]: 
+  commandLine: '["sudo", "bash", ''-c'', ''echo "127.0.0.1 github.com" >> /etc/hosts ; cat /etc/hosts'']'
+  output: true
